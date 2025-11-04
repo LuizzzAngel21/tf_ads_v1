@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" migrateIndexesAndConstraints="true" reUseTableSchema="true" newRepositoryParent="org.springframework.data.jpa.repository.JpaRepository">
+    <option name="migrateIndexesAndConstraints" value="true" />
+    <option name="reLastEntityCreationPackage" value="farmaceutica-backend/src/main/java/com/farmaceutica/model" />
+    <option name="reverseEngineeringLastDbConnectionId" value="6cef9ecb-e81e-4bd4-8355-5d20a68fd894" />
+  </component>
+</project>
